@@ -1,0 +1,27 @@
+
+#number-one{
+    color:lightgreen;
+    text-align: center
+} 
+#number-three{
+    color:blue
+}
+#number-two{
+    color:red
+}
+#truthLie {
+    border: 3px solid black;
+    border-radius: 1em;
+    background-color: lightgray;
+    padding: 0.25 em;
+    margin: 10px;
+  
+}
+.option{
+    border:3px solid black;
+    border-radius: 1em;
+    background-color: lightgray;
+    text-align: center;
+    display: inline-block;
+    width: 33%;
+}
